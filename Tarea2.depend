@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1413477044 source:/home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/Tarea2/Evaluador.cpp
+	"Evaluador.h"
+
+1413417832 /home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/Tarea2/Evaluador.h
+	"Cumpleanios.h"
+	<iostream>
+	<list>
+
+1413418449 source:/home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/Tarea2/Cumpleanios.cpp
+	"Cumpleanios.h"
+
+1413418455 /home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/Tarea2/Cumpleanios.h
+	<iostream>
+
+1413419299 source:/home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/Tarea2/main.cpp
+	"Evaluador.h"
+	<iostream>
+	<list>
+	<fstream>
+
